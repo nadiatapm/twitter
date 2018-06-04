@@ -15,7 +15,7 @@ textarea {
 	overflow-x: hidden;
 }
 .navbar-default {
-	background-color: #1DA1F2;
+	background-color: burlywood;
 	margin-bottom: 70px;
 	height: 130px;
 	box-shadow: 0px 1px 24px -6px rgba(0,0,0,1);
@@ -26,7 +26,7 @@ textarea {
 	font-weight: 700;
 }
 #boton{
-	background-color: #1DA1F2;	
+	background-color: burlywood;
 	border: 0px;
 	cursor: pointer;
 	box-shadow: 0px 1px 24px -6px rgba(0,0,0,1);
@@ -35,7 +35,7 @@ textarea {
 	width: 130px;
 }
 #boton:hover{
-	background-color: #167EBF; 
+	background-color: burlywood;
 }
 #contenedor{
 	background-color: #FFF;
@@ -66,4 +66,7 @@ textarea {
 }
 .tachado{
 	text-decoration: line-through;
+}
+input[type=checkbox]{
+	margin: 0 5px 0;
 }
